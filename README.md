@@ -91,4 +91,3 @@ target/                       # build output
 
 - The application uses H2 by default for ease of development. For production, switch to a persistent datasource and update `spring.datasource` properties.
 - If you see Vaadin dev-server artifacts in `target/`, these are produced during dev runs or frontend builds.
-- There is no LICENSE file in this repository; add one if you plan to publish with a specific license.
